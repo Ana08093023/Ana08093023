@@ -4,6 +4,9 @@
 
 Welcome to my GitHub profile! I am passionate about data analytics and always eager to gain new insights from data. My goal is to leverage analytical skills to solve business problems and make data-driven decisions.  
 
+## 🔍 О себе
+Я начинающий аналитик данных с опытом работы в анализе и визуализации данных. Владею Python, SQL, а также инструментами BI для построения аналитических отчётов. Прошла обучение в Яндекс.Практикум, где успешно выполнила несколько проектов по исследовательскому и продуктовому анализу.
+
 ## 💡 About Me  
 - 🎓 Completed the **Data Analytics** program at Yandex Practicum  
 - 📊 Skilled in data analysis, visualization, and database management  
@@ -16,8 +19,17 @@ Welcome to my GitHub profile! I am passionate about data analytics and always ea
 - **Data Visualization:** Tableau, Power BI  
 - **Other:** Excel (Pivot Tables, VLOOKUP), A/B Testing, Business Analytics  
 
+## 🚀 Навыки и технологии
+- **Языки программирования**: Python (pandas, numpy, seaborn, matplotlib)
+- **Базы данных**: SQL (PostgreSQL, SQLite)
+- **BI-инструменты**: Tableau, Power BI
+- **Методы анализа**: A/B тестирование, когортный анализ, визуализация данных
+- **Дополнительно**: MS Excel (сводные таблицы, макросы)
+- 
 ## 🌍 Let's Connect  
 - 📧 Email: kullkova.ana.892023@gmail.com  
 - 🔗 [LinkedIn] (https://www.linkedin.com/in/anastasiia-kulkova-0b0005346/)
 - 🎨 Tableau https://public.tableau.com/app/profile/ana.kull/vizzes
 - 🔔 Open to collaboration and job opportunities!  
+
+Буду рада новым возможностям и сотрудничеству! 😊
