@@ -19,5 +19,5 @@ Welcome to my GitHub profile! I am passionate about data analytics and always ea
 ## 🌍 Let's Connect  
 - 📧 Email: kullkova.ana.892023@gmail.com  
 - 🔗 [LinkedIn] (https://www.linkedin.com/in/anastasiia-kulkova-0b0005346/)
-- 🔔 Open to collaboration and job opportunities!  
 - 🎨 https://public.tableau.com/app/profile/ana.kull/vizzes
+- 🔔 Open to collaboration and job opportunities!  
