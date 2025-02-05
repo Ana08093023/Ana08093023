@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Anastasiia Kulkova  
 
-<!--
-**Ana08093023/Ana08093023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | Python | SQL | Tableau  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am passionate about data analytics and always eager to gain new insights from data. My goal is to leverage analytical skills to solve business problems and make data-driven decisions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me  
+- 🎓 Completed the **Data Analytics** program at Yandex Practicum  
+- 📊 Skilled in data analysis, visualization, and database management  
+- 🚀 Currently working on improving my skills in **Python, SQL, and Tableau**  
+- 🔍 Interested in A/B testing, business intelligence, and predictive analytics  
+
+## 🛠 Skills & Tools  
+- **Programming:** Python (Pandas, NumPy, Seaborn, Matplotlib)  
+- **Databases:** SQL (PostgreSQL, MySQL)  
+- **Data Visualization:** Tableau, Power BI  
+- **Other:** Excel (Pivot Tables, VLOOKUP), A/B Testing, Business Analytics  
+
+## 🌍 Let's Connect  
+- 📧 Email: kullkova.ana.892023@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anastasiia-kulkova-0b0005346/)
+- 🔔 Open to collaboration and job opportunities!  
