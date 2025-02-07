@@ -16,16 +16,16 @@ Welcome to my GitHub profile! I am passionate about data analytics and always ea
 ## 🛠 Skills & Tools  
 - **Programming:** Python (Pandas, NumPy, Seaborn, Matplotlib)  
 - **Databases:** SQL (PostgreSQL, MySQL)  
-- **Data Visualization:** Tableau, Power BI  
-- **Other:** Excel (Pivot Tables, VLOOKUP), A/B Testing, Business Analytics  
+- **Data Visualization:** Tableau
+- **Other:** Excel, A/B Testing, Business Analytics  
 
 ## 🚀 Навыки и технологии
 - **Языки программирования**: Python (pandas, numpy, seaborn, matplotlib)
-- **Базы данных**: SQL (PostgreSQL, SQLite)
-- **BI-инструменты**: Tableau, Power BI
+- **Базы данных**: SQL (PostgreSQL, MySQL)
+- **BI-инструменты**: Tableau
 - **Методы анализа**: A/B тестирование, когортный анализ, визуализация данных
-- **Дополнительно**: MS Excel (сводные таблицы, макросы)
-- 
+- **Дополнительно**: MS Excel 
+  
 ## 🌍 Let's Connect  
 - 📧 Email: kullkova.ana.892023@gmail.com  
 - 🔗 [LinkedIn] (https://www.linkedin.com/in/anastasiia-kulkova-0b0005346/)
